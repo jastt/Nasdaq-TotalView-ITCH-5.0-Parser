@@ -1,6 +1,8 @@
 Nasdaq-TotalView-ITCH-5.0-Parser
 ================================
 
+Quanticks Capital Solutions
+Quanticks.com
 
 This project is meant for market data professionals and enthusiasts implementing NASDAQ TotalView ITCH 5.0 specification (http://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHSpecification.pdf)
 
