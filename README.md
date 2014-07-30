@@ -4,7 +4,7 @@ Nasdaq-TotalView-ITCH-5.0-Parser
 
 This project is meant for market data professionals and enthusiasts implementing NASDAQ TotalView ITCH 5.0 specification (http://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHSpecification.pdf)
 
-With a larger buffer size, the parser is capable of handling over 10 million msgs/sec on commodity hardware (8GB RAM/Win7 64)
+With a large buffer size, the parser is capable of handling over 10 million msgs/sec on commodity hardware (8GB RAM/Win7 64)
 
 
 Please build the files according to the following:
